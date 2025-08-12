@@ -1,5 +1,6 @@
 # Electric Vehicle Market Analysis
-📌 Project Overview
+📌 Project Overview:
+
 This project involves Exploratory Data Analysis (EDA) on Electric Vehicle (EV) market data to understand adoption trends, regional distribution, vehicle types, and manufacturer performance. The insights derived can help stakeholders, policymakers, and manufacturers make informed decisions to support the EV ecosystem.
 
 🎯 Objectives
